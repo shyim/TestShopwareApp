@@ -1,0 +1,20 @@
+{
+  "test-app": {
+    "my-app-admin-snippet": "Fooo"
+  },
+  "custom_entity_bundle": {
+    "moduleTitle": "Bundle",
+    "tabs": {
+      "main": "General"
+    },
+    "fields": {
+      "name": "Name",
+      "discount": "Discount",
+      "products": "Products"
+    },
+    "cards": {
+      "general": "Info",
+      "secondary": "Choose products"
+    }
+  }
+}

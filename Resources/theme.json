@@ -1,0 +1,22 @@
+{
+  "name": "Test App Theme",
+  "author": "shopware AG",
+  "views": [
+     "@Storefront",
+     "@Plugins",
+     "@TestApp"
+  ],
+  "style": [
+    "@Storefront",
+    "app/storefront/src/scss/base.scss"
+  ],
+  "script": [
+    "@Storefront"
+  ],
+  "asset": [
+    "@Storefront"
+  ],
+  "iconSets": {
+    "custom-icons": "app/storefront/src/assets/icon-pack/custom-icons"
+  }
+}
